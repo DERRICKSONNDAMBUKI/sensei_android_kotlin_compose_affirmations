@@ -5,5 +5,5 @@ import androidx.annotation.StringRes
 
 data class Affirmation(
     @StringRes val stringResourceId: Int,
-    @DrawableRes val imageResource: Int
+    @DrawableRes val imageResourceId: Int
 )
